@@ -1,2 +1,2 @@
-# bamazon
+# Bamazon
 Amazon-like storefront CLI app
