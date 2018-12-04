@@ -2,7 +2,7 @@
 
 Amazon-like storefront CLI app
 
-[Bamazon Github Repository](https://github.com/noplanetnoparty/bamazon "Bamazon Github Repository")
+https://github.com/noplanetnoparty/bamazon
 
 ## Table Display
 When the user runs the bamazonCustomer.js file, the products table displays: 
