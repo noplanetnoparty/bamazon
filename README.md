@@ -1,6 +1,7 @@
 # BAMAZON
-Amazon-like storefront CLI app
 
+Amazon-like storefront CLI app
+https://noplanetnoparty.github.io/bamazon/
 
 ## Table Display
 When the user runs the bamazonCustomer.js file, the products table displays: 
